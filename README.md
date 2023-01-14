@@ -1,10 +1,16 @@
 ## Olá! Sou a Julia Pereira 👋
+- 🔭 Atualmente estou fazendo um projeto de um pokedex em Typescript;
+- 🌱 Atualmente estou aprendento o back-end da programação web;
+- 📫 How to reach me: [...](https://www.linkedin.com/in/julia-pereira-teixeira/)
+# 
+-
 
 <div style="display: inline-block">
   <a href="https://github.com/Julia-Teixeira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Julia-Teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Teixeira&layout=compact&langs_count=16&theme=dark"/>
 </div>
+
 <div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
