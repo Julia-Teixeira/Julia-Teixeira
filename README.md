@@ -1,15 +1,13 @@
 ## Olá! Sou a Julia Pereira 👋
+- 🌱 Sou Desenvolvedora Front-End
 - 🔭 Atualmente estou fazendo um projeto de um pokedex em Typescript;
-- 🌱 Atualmente estou aprendento o back-end da programação web;
-- 📫 How to reach me: [...](https://www.linkedin.com/in/julia-pereira-teixeira/)
+- 🌱 Atualmente estou estudando o back-end da programação web;
 # 
--
-
 <div style="display: inline-block">
   <a href="https://github.com/Julia-Teixeira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Julia-Teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Julia-Teixeira&layout=compact&langs_count=16&theme=dark"/> -->
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Teixeira"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Julia-Teixeira&theme=radical&include_all_commits=true&count_private=true"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia-Teixeira&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline-block">
@@ -24,7 +22,7 @@
 ## 
   
 <div>
-  <a href="https://www.linkedin.com/in/juliapereirat/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/julia-pereira-teixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/juliapereirat/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
