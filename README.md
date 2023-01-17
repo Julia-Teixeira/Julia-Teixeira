@@ -5,9 +5,9 @@
 # 
 <div style="display: inline-block">
   <a href="https://github.com/Julia-Teixeira">
-  <img height="150em" src="github-readme-stats-69q1.vercel.app/api/?username=Julia-Teixeira&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="github-readme-stats-five-ashen-69.vercel.app/api/?username=Julia-Teixeira&theme=radical&include_all_commits=true&count_private=true"/>
 
-  <img height="150em" src="github-readme-stats-69q1.vercel.app/api/top-langs/?username=Julia-Teixeira&layout=compact&langs_count=16&theme=radical"/>
+  <img height="150em" src="github-readme-stats-five-ashen-69.vercel.app/api/top-langs/?username=Julia-Teixeira&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline-block">
