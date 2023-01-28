@@ -1,6 +1,5 @@
 ## Olá! Sou a Julia Pereira 👋
 - 🌱 Sou Desenvolvedora Front-End
-- 🔭 Atualmente estou fazendo um projeto de um pokedex em Typescript;
 - 🌱 Atualmente estou estudando o back-end da programação web;
 # 
 <div style="display: inline-block">
