@@ -1,4 +1,5 @@
 <h1>Olá, me chamo Julia Pereira 👋</h1>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliapereirat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julia-pereira-teixeira) 
 
 # 💻 Tenologias que tenho o costume de usar:
