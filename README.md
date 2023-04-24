@@ -11,8 +11,8 @@ Back-end: ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-crsnzz930-julia-pereira.vercel.app/api?username=Julia-Teixeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400) 
-![](https://github-readme-stats-crsnzz930-julia-pereira.vercel.app/api/top-langs/?username=Julia-Teixeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400)
+![](https://github-readme-stats-julia-pereira.vercel.app/api?username=Julia-Teixeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400) 
+![](https://github-readme-stats-julia-pereira.vercel.app/api/top-langs/?username=Julia-Teixeira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=400)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
