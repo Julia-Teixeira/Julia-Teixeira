@@ -18,7 +18,11 @@ Back-end: ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Julia-Teixeira&icon=2&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+ <br><p align="center"><b>Contador de visitantes</b></p>
+ <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Julia-Teixeira}/count.svg" /></p>
+ <br>
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
