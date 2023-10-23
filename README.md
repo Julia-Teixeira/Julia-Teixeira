@@ -62,6 +62,10 @@
   <a href="https://linkedin.com/in/julia-pereira-teixeira">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://portfolio-julia-pereira.vercel.app/">
+    <img src="img/portfolio-profissional.png" style="width: 50px"/>
+  </a>
+
 
 
 ### ✍️ Random Dev Quote
