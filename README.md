@@ -12,7 +12,7 @@
   <p>
     <p>💻 Linguagens de programação:</p>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,typescript" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,typescript" />
   </a>
 </p>
 
